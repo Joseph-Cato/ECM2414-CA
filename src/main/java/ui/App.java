@@ -33,7 +33,7 @@ class App {
     Then you will be asked for the location of three files in turn containg comma seperated
     integer values for the pebble weights.
     The number of pebbles per bag must be at least 11 times the number of players.
-    All integer values must be strictly posertive integers.
+    All integer values must be strictly positive integers.
     
     The game will be simulated, the winner will be announced
     and output written to files in this directory.
@@ -41,7 +41,7 @@ class App {
     
     """;
 
-    public int getNumberOfPlayers() {
+    private int getNumberOfPlayers() {
 
         System.out.print("Please enter the number of players:\n");
 
@@ -54,7 +54,7 @@ class App {
             // Otherwise input is returned
             if (numberOfplayers < 1) {
 
-                System.out.print("Please enter a posertive integer.\n\n");
+                System.out.print("Please enter a positive integer.\n\n");
 
                 return getNumberOfPlayers();
 
@@ -66,13 +66,11 @@ class App {
             //Non integer inputs are caught with catch block and input is requested again
         } catch (InputMismatchException e) {
 
-            System.out.print("Please enter a posertive integer (less than 2147483647)\n\n");
+            System.out.print("Please enter a positive integer (less than 2,147,483,647)\n\n");
 
             return getNumberOfPlayers();
         }
     }
-
-    public
 
     private String getBagFileLocation(int bagNumber) {
 
@@ -81,6 +79,8 @@ class App {
         try {
 
             String fileLocation = scanner.nextLine();
+
+            return fileLocation;
 
         } catch (NoSuchElementException e) {
 
@@ -91,8 +91,16 @@ class App {
         }
     }
 
+    public void gameStart() {
 
+        System.out.print(introText);
 
+        int numberOfPlayers = getNumberOfPlayers();
 
+        String blackBagOneLocation = getBagFileLocation(1);
+
+        
+
+    }
 
 }
