@@ -1,14 +1,56 @@
 package pebbelgame;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 class Bag {
 
     // Array List so when items are deleted they will not be selected by our random picker
     // TODO - if you think of a solution which involves a more efficient data structure go for it
-    private ArrayList<Integer> pebbels;
+    private ArrayList<Integer> pebbles;
 
-    // ! Throwing Nullpointer when bag is empty, player class can catch exception and try another bag
+    public Bag() {
+        pebbles = new ArrayList<>();
+    }
+
+    public Bag(String fileLocation) throws FileNotFoundException, InvalidDataException  {
+
+        pebbles = new ArrayList<>();
+
+        BufferedReader br = new BufferedReader(new FileReader(fileLocation));
+
+        String line;
+
+        try {
+            while ((line = br.readLine()) != null) {
+
+                String[] values = line.split(",");
+
+                for (String i : values) {
+                    pebbles.add(Integer.parseInt(i));
+                }
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        // Throws InvalidDataException if number of pebbles in bag is not greater than or equal to 11 times the player count
+        if (pebbles.size() < PebbleGame.getPlayers().length*11) {
+            throw new InvalidDataException();
+        }
+
+    }
+
+    public ArrayList<Integer> getPebbleList() {
+        return pebbles;
+    }
+
+    // ! Throwing NullPointer when bag is empty, player class can catch exception and try another bag
     public int draw() throws NullPointerException{
         //TODO
 
