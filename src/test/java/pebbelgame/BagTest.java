@@ -3,6 +3,7 @@ package pebbelgame;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 public class BagTest {
@@ -16,7 +17,7 @@ public class BagTest {
 
         try {
 
-            Bag bag2 = new Bag("testFile1.csv");
+            Bag bag2 = new Bag("testfiles/testFile1.csv");
 
             ArrayList<Integer> expectedBag2 = new ArrayList<>();
 
@@ -27,8 +28,41 @@ public class BagTest {
 
             Assert.assertEquals(expectedBag2, bag2.getPebbleList());
 
+        } catch (NullPointerException e) {
+
+            // Do nothing
+
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
+
+    @Test
+    public void BagTestPebbleCount() {
+
+        PebbleGame game = new PebbleGame();
+
+        PebbleGame.Player player1 = game.new Player();
+        PebbleGame.Player player2 = game.new Player();
+
+        PebbleGame.Player[] players = {player1, player2};
+
+        // Sets the instance of the game to have two players
+        game.setPlayers(players);
+
+
+        Assert.assertThrows(InvalidDataException.class, () -> new Bag("testfiles/testFile1.csv"));
+
+        try {
+
+            new Bag("testfiles/testFile2.csv");
+            new Bag("testfiles/testFile3.csv");
+        } catch (Exception e) {
+
+            e.printStackTrace();
+            throw new AssertionError();
+        }
+    }
+
+
 }

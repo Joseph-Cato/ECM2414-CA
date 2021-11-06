@@ -17,7 +17,7 @@ class Bag {
         pebbles = new ArrayList<>();
     }
 
-    public Bag(String fileLocation) throws FileNotFoundException  {
+    public Bag(String fileLocation) throws FileNotFoundException, InvalidDataException  {
 
         pebbles = new ArrayList<>();
 
@@ -33,10 +33,15 @@ class Bag {
                 for (String i : values) {
                     pebbles.add(Integer.parseInt(i));
                 }
-
             }
+
         } catch (Exception e) {
             e.printStackTrace();
+        }
+
+        // Throws InvalidDataException if number of pebbles in bag is not greater than or equal to 11 times the player count
+        if (pebbles.size() < PebbleGame.getPlayers().length*11) {
+            throw new InvalidDataException();
         }
 
     }

@@ -41,7 +41,7 @@ class App {
     
     """;
 
-    private int getNumberOfPlayers() {
+    private int setNumberOfPlayers() {
 
         System.out.print("Please enter the number of players:\n");
 
@@ -56,7 +56,7 @@ class App {
 
                 System.out.print("Please enter a positive integer.\n\n");
 
-                return getNumberOfPlayers();
+                return setNumberOfPlayers();
 
             } else {
 
@@ -68,7 +68,7 @@ class App {
 
             System.out.print("Please enter a positive integer (less than 2,147,483,647)\n\n");
 
-            return getNumberOfPlayers();
+            return setNumberOfPlayers();
         }
     }
 
@@ -95,7 +95,7 @@ class App {
 
         System.out.print(introText);
 
-        int numberOfPlayers = getNumberOfPlayers();
+        int numberOfPlayers = setNumberOfPlayers();
 
         String blackBagOneLocation = getBagFileLocation(1);
 
