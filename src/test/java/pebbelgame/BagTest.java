@@ -31,7 +31,9 @@ public class BagTest {
         } catch (NullPointerException e) {
 
             // Do nothing
+        } catch (InvalidDataException e) {
 
+            //Do nothing
         } catch (Exception e) {
             e.printStackTrace();
         }
