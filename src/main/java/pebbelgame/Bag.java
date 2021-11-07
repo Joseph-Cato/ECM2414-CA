@@ -17,7 +17,7 @@ class Bag {
         pebbles = new ArrayList<>();
     }
 
-    public Bag(String fileLocation) throws FileNotFoundException, InvalidDataException  {
+    public Bag(String fileLocation) throws InvalidDataException, IOException  {
 
         pebbles = new ArrayList<>();
 
@@ -31,12 +31,22 @@ class Bag {
                 String[] values = line.split(",");
 
                 for (String i : values) {
+
+                    if (Integer.parseInt(i) < 1) {
+
+                        throw new InvalidDataException("File contained integer of value less than 1");
+
+                    }
+
                     pebbles.add(Integer.parseInt(i));
+
                 }
             }
 
-        } catch (Exception e) {
-            e.printStackTrace();
+        } catch (NumberFormatException e) {
+
+            throw new InvalidDataException("File contained a non parsable integer (doubles, chars, etc)");
+
         }
 
         // Throws InvalidDataException if number of pebbles in bag is not greater than or equal to 11 times the player count

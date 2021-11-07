@@ -66,5 +66,28 @@ public class BagTest {
         }
     }
 
+    @Test
+    public void BagTestBadPebbleWeight() {
+
+        PebbleGame game = new PebbleGame();
+
+        PebbleGame.Player player = game.new Player();
+
+        PebbleGame.Player[] players = {player};
+
+        game.setPlayers(players);
+
+
+        InvalidDataException exception1 = Assert.assertThrows(InvalidDataException.class, () -> new Bag("testfiles/testfile4.csv"));
+
+        Assert.assertEquals("File contained integer of value less than 1", exception1.getMessage());
+
+
+        InvalidDataException exception2 = Assert.assertThrows(InvalidDataException.class, () -> new Bag("testfiles/testfile5.csv"));
+
+        Assert.assertEquals("File contained a non parsable integer (doubles, chars, etc)", exception2.getMessage());
+
+    }
+
 
 }
