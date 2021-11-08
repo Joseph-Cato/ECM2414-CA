@@ -28,9 +28,9 @@ public class BagTest {
 
             Assert.assertEquals(expectedBag2, bag2.getPebbleList());
 
-        } catch (InvalidDataException e) {
+        } catch (InvalidDataException | NullPointerException e) {
 
-            //Do nothing
+            // Do nothing
         } catch (Exception e) {
             e.printStackTrace();
         }
