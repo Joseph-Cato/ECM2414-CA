@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.concurrent.ThreadLocalRandom;
 
 class Bag {
 
@@ -60,15 +61,40 @@ class Bag {
         return pebbles;
     }
 
-    // ! Throwing NullPointer when bag is empty, player class can catch exception and try another bag
-    public int draw() throws NullPointerException{
-        //TODO
+    // Draw() and Place() are both synchronized so that no Player object can act on a Bag object at the same time
 
-        return 0;
+    // ! Throwing NullPointer when bag is empty, player class can catch exception and try another bag
+    public synchronized int draw() throws NullPointerException{
+        //TODO - removes an random pebble, change later if adding AI to choose which pebble
+
+        // Using ThreadLocalRandom for performance reasons
+        int randomIndex = ThreadLocalRandom.current().nextInt( pebbles.size() );
+
+        int pebble = pebbles.get(randomIndex);
+
+        pebbles.remove(randomIndex);
+
+        return pebble;
     }
 
-    public void place(int i) {
-        //TODO
+    //TODO - does place need to be synchronized?
+    public synchronized void place(int i) {
+
+        // Pebble is added to the end of the ArrayList so the indexes being used by draw() are not interfered with
+        pebbles.add(i);
+
+    }
+
+    public int sumBag() {
+
+        int pebbleSum = 0;
+
+        for (int i : pebbles) {
+            pebbleSum += i;
+        }
+
+        return pebbleSum;
+
     }
 
 }
