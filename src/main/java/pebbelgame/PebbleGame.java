@@ -1,8 +1,11 @@
 package pebbelgame;
 
 import java.util.concurrent.ThreadLocalRandom;
+import java.util.concurrent.locks.ReentrantLock;
 
 class PebbleGame {
+
+    ReentrantLock lock = new ReentrantLock();
 
     private Bag[] whiteBags;
     private Bag[] blackBags;
@@ -58,12 +61,16 @@ class PebbleGame {
 
             whiteBag.place(defaultBag.draw());
 
+            // TODO - log
+
         }
 
         private void place() {
             // TODO - removes a random pebble, change later if adding AI to choose which pebble
 
             defaultBlackBag.place( whiteBag.draw() );
+
+            // TODO - log
 
         }
 
@@ -72,26 +79,30 @@ class PebbleGame {
 
             //TODO - on starting player selects 10 random pebbles
 
-            // TODO - ! a player can still win after a player has won
-            //  ( if finshed player is set while another player is still running this while method,
-            //  and also wins before win condition is checked again
-
             // Runs whilst no player has won
             while (finishedPlayer == null) {
+
+                // Player removes and gets a new pebble for their white bag
 
                 place();
 
                 draw();
 
-                if ( whiteBag.sumBag() == 100) {
+                // Win condition checking is locked so only one player can check at any given time
+                lock.lock();
+
+                // If a player has won and no other player has already fished, the player is set as the finishedPlayer (the winner)
+                // if another player has already  nothing happens, while loop will be skipped on next step due to finishedPlayer not being null
+                if ( whiteBag.sumBag() == 100 && finishedPlayer != null) {
                     finishedPlayer = this;
                 }
 
+                lock.unlock();
+
             }
 
-            // Thread will terminate
+            // Thread will terminate when while loop is terminated (when a player has finished)
 
         }
     }
-
 }
