@@ -18,6 +18,10 @@ class Bag {
         pebbles = new ArrayList<>();
     }
 
+    public Bag(ArrayList<Integer> pebbles) {
+        this.pebbles = pebbles;
+    }
+
     public Bag(String fileLocation) throws FileNotFoundException, InvalidDataException  {
 
         pebbles = new ArrayList<>();

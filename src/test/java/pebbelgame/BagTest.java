@@ -39,7 +39,7 @@ public class BagTest {
     @Test
     public void BagTestPebbleCount() {
 
-        PebbleGame game = new PebbleGame();
+        PebbleGame game = new PebbleGame(new Bag[]{new Bag()});
 
         PebbleGame.Player player1 = game.new Player();
         PebbleGame.Player player2 = game.new Player();

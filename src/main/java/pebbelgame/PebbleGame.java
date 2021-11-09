@@ -9,12 +9,19 @@ class PebbleGame {
 
     private Bag[] whiteBags;
     private Bag[] blackBags;
-
     private Player finishedPlayer = null;
-
-
-
     private static Player[] players;
+
+
+    public PebbleGame(Bag[] blackBags) {
+        this.blackBags = blackBags;
+
+
+    }
+
+    public Player getFinishedPlayer() {
+        return finishedPlayer;
+    }
 
     public static Player[] getPlayers() {
         return players;
@@ -24,11 +31,20 @@ class PebbleGame {
         this.players = players;
     }
 
+    public Bag[] getBlackBags() {
+        return blackBags;
+    }
+
+    public Bag[] getWhiteBags() {
+        return whiteBags;
+    }
+
     class Player extends Thread{
 
-        private int playerNum;
         private Bag defaultBlackBag;
         private Bag whiteBag;
+
+
 
         public Player(){
             //TODO - change test to remove this function!!
@@ -37,11 +53,10 @@ class PebbleGame {
             System.out.println("Player() to only be used for testing");
         }
 
-        public Player(int playerNum, Bag defaultBlackBag, Bag whiteBag) {
+        public Player( Bag defaultBlackBag, Bag whiteBag) {
 
             this.whiteBag = whiteBag;
             this.defaultBlackBag = defaultBlackBag;
-            this.playerNum = playerNum;
 
         }
 
@@ -101,7 +116,7 @@ class PebbleGame {
 
             }
 
-            // Thread will terminate when while loop is terminated (when a player has finished)
+            // Thread will terminate
 
         }
     }
