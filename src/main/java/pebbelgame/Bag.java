@@ -8,11 +8,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 
-class Bag {
+public class Bag {
 
     // Array List so when items are deleted they will not be selected by our random picker
     // TODO - if you think of a solution which involves a more efficient data structure go for it
     private ArrayList<Integer> pebbles;
+    private char bagIdentifier;
 
     public Bag() {
         pebbles = new ArrayList<>();
@@ -51,7 +52,7 @@ class Bag {
         }
 
         // Throws InvalidDataException if number of pebbles in bag is not greater than or equal to 11 times the player count
-        if (pebbles.size() < PebbleGame.getPlayers().length*11) {
+        if (pebbles.size() < PebbleGame.getPlayers().size()*11) {
             throw new InvalidDataException();
         }
 
@@ -59,6 +60,14 @@ class Bag {
 
     public ArrayList<Integer> getPebbleList() {
         return pebbles;
+    }
+
+    public void setBagIdentifier(char bagIdentifier) {
+        this.bagIdentifier = bagIdentifier;
+    }
+
+    public char getBagIdentifier() {
+        return bagIdentifier;
     }
 
     // Draw() and Place() are both synchronized so that no Player object can act on a Bag object at the same time
@@ -82,6 +91,8 @@ class Bag {
 
         // Pebble is added to the end of the ArrayList so the indexes being used by draw() are not interfered with
         pebbles.add(i);
+
+        //TODO - remove pebble
 
     }
 

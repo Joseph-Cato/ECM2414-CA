@@ -1,48 +1,85 @@
 package pebbelgame;
 
+import java.util.ArrayList;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.locks.ReentrantLock;
 
-class PebbleGame {
+public class PebbleGame {
 
     ReentrantLock lock = new ReentrantLock();
 
     private Bag[] whiteBags;
     private Bag[] blackBags;
+    private static int numberOfPlayers = 0;
 
     private Player finishedPlayer = null;
 
+    private static ArrayList<Player> players;
 
+    public PebbleGame() {
 
-    private static Player[] players;
+        // Creates white bags for game
+        Bag whiteBagA = new Bag();
+        Bag whiteBagB = new Bag();
+        Bag whiteBagC = new Bag();
 
-    public static Player[] getPlayers() {
+        Bag[] whiteBags = {whiteBagA, whiteBagB, whiteBagC};
+
+        this.whiteBags = whiteBags;
+    }
+
+    public Player getFinishedPlayer() {
+        return finishedPlayer;
+    }
+
+    public static ArrayList<Player> getPlayers() {
         return players;
     }
 
-    public void setPlayers(Player[] players) {
+    public void setPlayers(ArrayList<Player> players) {
         this.players = players;
     }
 
-    class Player extends Thread{
+    public Bag[] getBlackBags() {
+        return blackBags;
+    }
+
+    public Bag[] getWhiteBags() {
+        return whiteBags;
+    }
+
+    public void setBlackBags(Bag[] blackBags) {
+        this.blackBags = blackBags;
+    }
+
+    public class Player extends Thread{
 
         private int playerNum;
         private Bag defaultBlackBag;
         private Bag whiteBag;
+        private Character lastBagDrawnFrom = null;
 
         public Player(){
             //TODO - change test to remove this function!!
-
+            numberOfPlayers++;
             // Testing function
             System.out.println("Player() to only be used for testing");
         }
 
         public Player(int playerNum, Bag defaultBlackBag, Bag whiteBag) {
 
+            numberOfPlayers++;
+
+            this.playerNum = numberOfPlayers;
+
             this.whiteBag = whiteBag;
             this.defaultBlackBag = defaultBlackBag;
             this.playerNum = playerNum;
 
+        }
+
+        public int getPlayerNum(){
+            return playerNum;
         }
 
         private void draw() {
@@ -59,16 +96,33 @@ class PebbleGame {
 
             }
 
+            lastBagDrawnFrom = defaultBag.getBagIdentifier();
+
             whiteBag.place(defaultBag.draw());
 
             // TODO - log
 
         }
 
+        public void gameStartDraw() {
+
+            for ( int i = 0; i < 10; i++ ) {
+                draw();
+            }
+
+        }
+
         private void place() {
             // TODO - removes a random pebble, change later if adding AI to choose which pebble
 
-            defaultBlackBag.place( whiteBag.draw() );
+            Bag blackBag = null;
+
+            switch (lastBagDrawnFrom) {
+                case 'X':
+
+            }
+
+            blackBag.place( whiteBag.draw() );
 
             // TODO - log
 
@@ -83,6 +137,17 @@ class PebbleGame {
             while (finishedPlayer == null) {
 
                 // Player removes and gets a new pebble for their white bag
+
+                /**
+                Bag blackBag = null;
+
+                Bag[] blackBagList = getBlackBags();
+                for (Bag i : blackBagList) {
+                    if ( i.getBagIdentifier() == lastBagDrawnFrom) {
+
+                    }
+                }
+                 *//
 
                 place();
 

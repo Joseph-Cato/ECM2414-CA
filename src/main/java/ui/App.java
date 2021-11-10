@@ -1,11 +1,17 @@
 package ui;
 
 
+import pebbelgame.Bag;
+import pebbelgame.InvalidDataException;
+import pebbelgame.PebbleGame;
+
+import java.io.IOException;
+import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-class App {
+public class App {
 
     private Scanner scanner = new Scanner(System.in);
 
@@ -25,21 +31,6 @@ class App {
 
         return instance;
     }
-
-    private String introText = """
-    Welcome to the PebbleGame!!
-    
-    You will be basked to enter the number of players.
-    Then you will be asked for the location of three files in turn containg comma seperated
-    integer values for the pebble weights.
-    The number of pebbles per bag must be at least 11 times the number of players.
-    All integer values must be strictly positive integers.
-    
-    The game will be simulated, the winner will be announced
-    and output written to files in this directory.
-    
-    
-    """;
 
     private int setNumberOfPlayers() {
 
@@ -91,14 +82,101 @@ class App {
         }
     }
 
+    private Bag createBlackBag(int bagNumber, char bagIdentifier) {
+
+        try {
+
+            String blackBagLocation = getBagFileLocation( bagNumber );
+
+            Bag blackBag = new Bag(blackBagLocation);
+
+            blackBag.setBagIdentifier(bagIdentifier);
+
+            return blackBag;
+
+        } catch (InvalidDataException | IOException e) {
+
+            System.out.print("\nERROR: Invalid data please select a different file\n\n");
+
+            return createBlackBag( bagNumber, bagIdentifier );
+
+        }
+    }
+
     public void gameStart() {
 
-        System.out.print(introText);
+        System.out.print("""
+    Welcome to the PebbleGame!!
+    
+    You will be basked to enter the number of players.
+    Then you will be asked for the location of three files in turn containg comma seperated
+    integer values for the pebble weights.
+    The number of pebbles per bag must be at least 11 times the number of players.
+    All integer values must be strictly positive integers.
+    
+    The game will be simulated, the winner will be announced
+    and output written to files in this directory.
+    
+    
+    """);
 
+        // Gets number of players
         int numberOfPlayers = setNumberOfPlayers();
 
-        String blackBagOneLocation = getBagFileLocation(1);
+        // Creates game and 3 white bags within constructor
+        PebbleGame game = new PebbleGame();
 
+
+        // Sets black bags for game
+        Bag blackBagX = createBlackBag(1, 'X');
+        Bag blackBagY = createBlackBag(2, 'Y');
+        Bag blackBagZ = createBlackBag(3, 'Z');
+
+        Bag[] blackBags = {blackBagX, blackBagY, blackBagZ};
+
+        game.setBlackBags(blackBags);
+
+        // Creates and adds players to game
+        ArrayList<PebbleGame.Player> players = new ArrayList<>();
+
+        //TODO - create players
+
+        int bagCounter = 1;
+
+        for (int i = 1; i < numberOfPlayers; i++) {
+
+            players.add( game.new Player( i, game.getBlackBags()[ bagCounter ], game.getWhiteBags()[ bagCounter ]));
+
+            bagCounter++;
+
+            if (bagCounter > 3) {
+                bagCounter = 1;
+            }
+
+        }
+
+        game.setPlayers(players);
+
+        // Each player collects 10 pebbles to start the game
+        for (PebbleGame.Player i : game.getPlayers()) {
+            i.gameStartDraw();
+        }
+
+        for (PebbleGame.Player player : game.getPlayers()) {
+            player.run();
+        }
+
+        while (true) {
+            if (game.getFinishedPlayer() != null) {
+
+                PebbleGame.Player finishedPlayer = game.getFinishedPlayer();
+
+                System.out.print("Player " + finishedPlayer.getPlayerNum() + " has won!"); //TODO - change this to fit spec
+
+                return;
+
+            }
+        }
         
 
     }
