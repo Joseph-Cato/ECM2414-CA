@@ -44,7 +44,10 @@ public class BagTest {
         PebbleGame.Player player1 = game.new Player();
         PebbleGame.Player player2 = game.new Player();
 
-        PebbleGame.Player[] players = {player1, player2};
+        ArrayList<PebbleGame.Player> players = new ArrayList<>();
+
+        players.add(player1);
+        players.add(player2);
 
         // Sets the instance of the game to have two players
         game.setPlayers(players);
@@ -70,7 +73,8 @@ public class BagTest {
 
         PebbleGame.Player player = game.new Player();
 
-        PebbleGame.Player[] players = {player};
+        ArrayList<PebbleGame.Player> players = new ArrayList<>();
+        players.add(player);
 
         game.setPlayers(players);
 
