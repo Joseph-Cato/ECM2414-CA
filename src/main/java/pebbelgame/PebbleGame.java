@@ -21,8 +21,12 @@ public class PebbleGame {
     class Player extends Thread{
 
         private int playerNum;
-        private Bag defaultBlackBag;
         private Character lastBagDrawnFrom = null;
         private ArrayList<Integer> playerHand = new ArrayList<Integer>(10);
+
+
+        public Player( int playerNum ) {
+            this.playerNum = playerNum;
+        }
 
 }
