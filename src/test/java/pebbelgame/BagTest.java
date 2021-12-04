@@ -9,85 +9,52 @@ import java.util.ArrayList;
 public class BagTest {
 
     @Test
-    public void BagTest() {
+    public void drawTest() {
 
-        Bag bag1 = new Bag();
+        Boolean b = false;
 
-        Assert.assertEquals(new ArrayList<Integer>(), bag1.getPebbleList());
+        Bag bag2 = new Bag('2');
 
-        try {
+        ArrayList arrayList = new ArrayList();
 
-            Bag bag2 = new Bag("testfiles/testFile1.csv");
+        arrayList.add(1);
+        arrayList.add(2);
+        arrayList.add(3);
 
-            ArrayList<Integer> expectedBag2 = new ArrayList<>();
+        bag2.setPebbles(arrayList);
 
-            expectedBag2.add(1);
-            expectedBag2.add(2);
-            expectedBag2.add(3);
-            expectedBag2.add(4);
+        int i = bag2.draw();
 
-            Assert.assertEquals(expectedBag2, bag2.getPebbleList());
-
-        } catch (InvalidDataException | NullPointerException e) {
-
-            // Do nothing
-        } catch (Exception e) {
-            e.printStackTrace();
+        if ( i == 1 || i == 2 || i == 3 ) {
+            b = true;
         }
+
+        Assert.assertTrue(b);
+
     }
 
     @Test
-    public void BagTestPebbleCount() {
+    public void drawTestPebbleRemoval() {
 
-        PebbleGame game = new PebbleGame();
+        Bag bag3 = new Bag('3');
 
-        PebbleGame.Player player1 = game.new Player();
-        PebbleGame.Player player2 = game.new Player();
+        ArrayList arrayList = new ArrayList();
+        arrayList.add(1);
 
-        ArrayList<PebbleGame.Player> players = new ArrayList<>();
+        bag3.setPebbles(arrayList);
 
-        players.add(player1);
-        players.add(player2);
+        bag3.draw();
 
-        // Sets the instance of the game to have two players
-        game.setPlayers(players);
+        Assert.assertEquals(0, bag3.getPebbles().size());
 
-
-        Assert.assertThrows(InvalidDataException.class, () -> new Bag("testfiles/testFile1.csv"));
-
-        try {
-
-            new Bag("testfiles/testFile2.csv");
-            new Bag("testfiles/testFile3.csv");
-        } catch (Exception e) {
-
-            e.printStackTrace();
-            throw new AssertionError();
-        }
     }
 
     @Test
-    public void BagTestBadPebbleWeight() {
+    public void drawTestEmptyBag() {
 
-        PebbleGame game = new PebbleGame();
+        Bag bag1 = new Bag('1');
 
-        PebbleGame.Player player = game.new Player();
-
-        ArrayList<PebbleGame.Player> players = new ArrayList<>();
-        players.add(player);
-
-        game.setPlayers(players);
-
-
-        InvalidDataException exception1 = Assert.assertThrows(InvalidDataException.class, () -> new Bag("testfiles/testfile4.csv"));
-
-        Assert.assertEquals("File contained integer of value less than 1", exception1.getMessage());
-
-
-        InvalidDataException exception2 = Assert.assertThrows(InvalidDataException.class, () -> new Bag("testfiles/testfile5.csv"));
-
-        Assert.assertEquals("File contained a non parsable integer (doubles, chars, etc)", exception2.getMessage());
-
+        Assert.assertThrows(NullPointerException.class, () -> bag1.draw());
     }
 
 
