@@ -21,6 +21,17 @@ public class Bag {
         this.bagIdentifier = bagIdentifier;
     }
 
+    public char getBagIdentifier() {
+        return bagIdentifier;
+    }
+
+    public void setSiblingBag(Bag siblingBag) {
+        this.siblingBag = siblingBag;
+    }
+
+    public Bag getSiblingBag() {
+        return siblingBag;
+    }
 
     public void setPebbles(ArrayList<Integer> pebbles) {
         this.pebbles = pebbles;
@@ -28,6 +39,13 @@ public class Bag {
 
     public ArrayList<Integer> getPebbles() {
         return pebbles;
+    }
+
+    public synchronized void emptyBag() {
+        siblingBag.setPebbles( this.getPebbles() );
+
+        this.setPebbles( new ArrayList<Integer>() );
+
     }
 
 
@@ -58,7 +76,7 @@ public class Bag {
     }
 
 
-
+    //TODO - logging
 
 
 
