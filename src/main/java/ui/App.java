@@ -5,32 +5,19 @@ import pebbelgame.Bag;
 import pebbelgame.InvalidDataException;
 import pebbelgame.PebbleGame;
 
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
+import static java.lang.Thread.sleep;
+
 public class App {
+
 
     private Scanner scanner = new Scanner(System.in);
 
-    // Static variable referencing single instance of App
-    private static App instance = null;
-
-    // Private constructor to avoid multiple instances of App
-    private App() {
-
-    }
-
-    // Public method acts as constructor if no instance of App exists or returns current instance
-    public static App getInstance() {
-        if (instance == null) {
-            instance =  new App();
-        }
-
-        return instance;
-    }
 
     private int setNumberOfPlayers() {
 
@@ -65,9 +52,9 @@ public class App {
 
     private String getBagFileLocation(int bagNumber) {
 
-        System.out.print("\nPlease enter location of bag number " + bagNumber + " to load:\n");
-
         try {
+
+            System.out.print("\nPlease enter location of bag number " + bagNumber + " to load:\n");
 
             String fileLocation = scanner.nextLine();
 
@@ -88,15 +75,57 @@ public class App {
 
             String blackBagLocation = getBagFileLocation( bagNumber );
 
-            Bag blackBag = new Bag(blackBagLocation);
+            Bag blackBag = new Bag(bagIdentifier);
 
-            blackBag.setBagIdentifier(bagIdentifier);
+            File csvFile = new File( blackBagLocation );
+
+            if (!csvFile.isFile()) {
+
+                System.out.print("\nERROR: File does not exist\n\n");
+
+                return createBlackBag( bagNumber, bagIdentifier );
+
+            }
+
+            BufferedReader csvReader = new BufferedReader( new FileReader( blackBagLocation ) );
+
+            ArrayList<Integer> pebbles = new ArrayList<>();
+
+            while ( true ) {
+
+                try {
+
+                    String[] data = csvReader.readLine().split(",");
+
+                    for (String i : data) {
+                        pebbles.add(Integer.parseInt(i));
+                    }
+
+                } catch ( NumberFormatException e ) {
+
+                    throw new InvalidDataException();
+
+                } catch ( NullPointerException e) {
+                    break;
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+
+            }
+
+            blackBag.setPebbles( pebbles );
 
             return blackBag;
 
-        } catch (InvalidDataException | IOException e) {
+        } catch (InvalidDataException e) {
 
             System.out.print("\nERROR: Invalid data please select a different file\n\n");
+
+            return createBlackBag( bagNumber, bagIdentifier );
+
+        } catch ( FileNotFoundException e ) {
+
+            System.out.print("\nERROR: File does not exist\n\n");
 
             return createBlackBag( bagNumber, bagIdentifier );
 
@@ -127,57 +156,75 @@ public class App {
         PebbleGame game = new PebbleGame();
 
 
-        // Sets black bags for game
+        // Sets bags for game
         Bag blackBagX = createBlackBag(1, 'X');
         Bag blackBagY = createBlackBag(2, 'Y');
         Bag blackBagZ = createBlackBag(3, 'Z');
 
+        Bag whiteBagA = new Bag( 'A' );
+        Bag whiteBagB = new Bag( 'B' );
+        Bag whiteBagC = new Bag( 'C' );
+
+
+        blackBagX.setSiblingBag(whiteBagA);
+        whiteBagA.setSiblingBag(blackBagX);
+
+        blackBagY.setSiblingBag(whiteBagB);
+        whiteBagB.setSiblingBag(blackBagY);
+
+        blackBagZ.setSiblingBag(whiteBagC);
+        whiteBagC.setSiblingBag(blackBagZ);
+
+
+        Bag[] whiteBags = {whiteBagA, whiteBagB, whiteBagC};
+
         Bag[] blackBags = {blackBagX, blackBagY, blackBagZ};
+
 
         game.setBlackBags(blackBags);
 
+        game.setWhiteBags(whiteBags);
+
+
+
         // Creates and adds players to game
-        ArrayList<PebbleGame.Player> players = new ArrayList<>();
+        for ( int i = 0; i < numberOfPlayers; i++) {
 
-        //TODO - create players
+            try {
 
-        int bagCounter = 1;
+                game.addPlayer();
 
-        for (int i = 1; i < numberOfPlayers; i++) {
+            } catch (IOException e) {
 
-            players.add( game.new Player( i, game.getBlackBags()[ bagCounter ], game.getWhiteBags()[ bagCounter ]));
+                System.out.print("FAILURE: Output file creation has failed");
 
-            bagCounter++;
+                break;
 
-            if (bagCounter > 3) {
-                bagCounter = 1;
             }
-
         }
 
-        game.setPlayers(players);
 
-        // Each player collects 10 pebbles to start the game
-        for (PebbleGame.Player i : game.getPlayers()) {
-            i.gameStartDraw();
-        }
+        // Each player collects 10 pebbles and starts playing the game
+        game.startGame();
 
-        for (PebbleGame.Player player : game.getPlayers()) {
-            player.run();
-        }
+        System.out.print("\n Game has started...");
 
         while (true) {
-            if (game.getFinishedPlayer() != null) {
+            if (game.getFinishedPlayerBoolean() == true) {
 
-                PebbleGame.Player finishedPlayer = game.getFinishedPlayer();
-
-                System.out.print("Player " + finishedPlayer.getPlayerNum() + " has won!"); //TODO - change this to fit spec
+                System.out.println( game.announceFinishedPlayer() );
 
                 return;
 
             }
+
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
-        
+
 
     }
 

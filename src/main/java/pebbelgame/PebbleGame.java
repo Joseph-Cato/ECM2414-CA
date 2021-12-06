@@ -1,173 +1,218 @@
 package pebbelgame;
 
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.concurrent.ThreadLocalRandom;
+import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class PebbleGame {
 
-    ReentrantLock lock = new ReentrantLock();
-
     private Bag[] whiteBags;
     private Bag[] blackBags;
     private static int numberOfPlayers = 0;
+    private ArrayList<Player> players = new ArrayList<Player>();
+    private static Boolean finishedPlayerBoolean = false;
+    private static Player finishedPlayer = null;
 
-    private Player finishedPlayer = null;
-
-    private static ArrayList<Player> players;
 
     public PebbleGame() {
 
-        // Creates white bags for game
-        Bag whiteBagA = new Bag();
-        Bag whiteBagB = new Bag();
-        Bag whiteBagC = new Bag();
-
-        Bag[] whiteBags = {whiteBagA, whiteBagB, whiteBagC};
-
-        this.whiteBags = whiteBags;
+        this.whiteBags = new Bag[]{new Bag('A'), new Bag('B'), new Bag('C')};
+        this.blackBags = new Bag[]{new Bag('X'), new Bag('Y'), new Bag('Z')};
     }
 
-    public Player getFinishedPlayer() {
-        return finishedPlayer;
+    public int getNumberOfPlayers() {
+        return numberOfPlayers;
     }
 
-    public static ArrayList<Player> getPlayers() {
-        return players;
+    public void setFinishedPlayer(Player finishedPlayer) {
+        this.finishedPlayer = finishedPlayer;
     }
 
-    public void setPlayers(ArrayList<Player> players) {
-        this.players = players;
+    public void setFinishedPlayerBoolean(Boolean finishedPlayerBoolean) {
+        this.finishedPlayerBoolean = finishedPlayerBoolean;
+    }
+
+    public Boolean getFinishedPlayerBoolean() {
+        return finishedPlayerBoolean;
     }
 
     public Bag[] getBlackBags() {
         return blackBags;
     }
 
-    public Bag[] getWhiteBags() {
-        return whiteBags;
+    public void setWhiteBags(Bag[] whiteBags) {
+        this.whiteBags = whiteBags;
     }
 
     public void setBlackBags(Bag[] blackBags) {
         this.blackBags = blackBags;
     }
 
-    public class Player extends Thread{
+    public void addPlayer() throws IOException {
+         players.add( new Player(this) );
+    }
+
+    public void startGame() {
+
+        for (Player i : players) {
+            i.getTenPebbles();
+        }
+
+        for (Player i : players) {
+            i.run();
+        }
+
+    }
+
+    public String announceFinishedPlayer() {
+        return "Player " + finishedPlayer.getPlayerNum() + " has won!";
+    }
+
+}
+
+
+    class Player extends Thread{
 
         private int playerNum;
-        private Bag defaultBlackBag;
-        private Bag whiteBag;
-        private Character lastBagDrawnFrom = null;
+        private Bag lastBagDrawnFrom = null;
+        private ArrayList<Integer> playerHand = new ArrayList<Integer>(10);
+        private PebbleGame pebbleGame;
+        private static int numberOfPlayers = 0;
+        FileWriter fileWriter;
 
-        public Player(){
-            //TODO - change test to remove this function!!
-            numberOfPlayers++;
-            // Testing function
-            System.out.println("Player() to only be used for testing");
-        }
+        static ReentrantLock lock = new ReentrantLock();
 
-        public Player(int playerNum, Bag defaultBlackBag, Bag whiteBag) {
 
-            numberOfPlayers++;
+        public Player( PebbleGame pebbleGame ) throws IOException {
 
+            numberOfPlayers += 1;
+
+            this.pebbleGame = pebbleGame;
             this.playerNum = numberOfPlayers;
 
-            this.whiteBag = whiteBag;
-            this.defaultBlackBag = defaultBlackBag;
-            this.playerNum = playerNum;
-
+            fileWriter = new FileWriter( String.valueOf( numberOfPlayers +".txt" ) );
         }
 
-        public int getPlayerNum(){
+        public int getPlayerNum() {
             return playerNum;
         }
 
-        private void draw() {
+        private synchronized void draw() {
 
-            // Sets the default bag
-            Bag defaultBag = defaultBlackBag;
-
-            // Checks default bag is not empty, selects new bag if it is
-            while ( defaultBag.getPebbleList().isEmpty() ) {
+            while (true) {
 
                 int randomBagIndex = ThreadLocalRandom.current().nextInt( 3 );
 
-                defaultBag = blackBags[randomBagIndex];
+                Bag bag = pebbleGame.getBlackBags()[randomBagIndex];
 
-            }
+                if ( bag.getPebbles().size() == 0 ) {
 
-            lastBagDrawnFrom = defaultBag.getBagIdentifier();
+                    lock.lock();
 
-            whiteBag.place(defaultBag.draw());
+                    bag.emptyBag();
 
-            // TODO - log
+                    lock.unlock();
 
-        }
+                    continue;
+                }
 
-        public void gameStartDraw() {
+                int pebble = bag.draw();
 
-            for ( int i = 0; i < 10; i++ ) {
-                draw();
+                lastBagDrawnFrom = bag;
+
+                playerHand.add( pebble );
+
+                try {
+
+                    fileWriter.append("\nplayer" + playerNum + " has drawn a " + pebble + " from bag " + bag.getBagIdentifier() +
+                            "\n" + "player" + playerNum + " hand is " );
+
+                    for ( Integer i : playerHand ) {
+                        fileWriter.append( i + ", ");
+                    }
+
+                } catch ( IOException e ) {
+
+                    System.out.print( "ERROR: Player " + playerNum + " has failed to write to file." );
+
+                }
+
+                break;
+
             }
 
         }
 
         private void place() {
-            // TODO - removes a random pebble, change later if adding AI to choose which pebble
 
-            Bag blackBag = null;
+            int randomHandIndex = ThreadLocalRandom.current().nextInt( playerHand.size() );
 
-            switch (lastBagDrawnFrom) {
-                case 'X':
+            int pebble = playerHand.get(randomHandIndex);
+
+            playerHand.remove(randomHandIndex);
+
+            lastBagDrawnFrom.getSiblingBag().place(pebble);
+
+            try {
+
+                fileWriter.append("\nplayer" + playerNum + " has discarded a " + pebble + " to bag " + lastBagDrawnFrom.getSiblingBag().getBagIdentifier() +
+                        "\n" + "player" + playerNum + " hand is " );
+
+                for ( Integer i : playerHand ) {
+                    fileWriter.append( i + ", ");
+                }
+
+            } catch ( IOException e ) {
+
+                System.out.print( "ERROR: Player " + playerNum + " has failed to write to file." );
 
             }
 
-            blackBag.place( whiteBag.draw() );
+        }
 
-            // TODO - log
-
+        public void getTenPebbles() {
+            for ( int j = 0; j < 10; j++ ) {
+                this.draw();
+            }
         }
 
         @Override
         public void run() {
 
-            //TODO - on starting player selects 10 random pebbles
+            while (pebbleGame.getFinishedPlayerBoolean() == false) {
 
-            // Runs whilst no player has won
-            while (finishedPlayer == null) {
-
-                // Player removes and gets a new pebble for their white bag
-
-                /**
-                Bag blackBag = null;
-
-                Bag[] blackBagList = getBlackBags();
-                for (Bag i : blackBagList) {
-                    if ( i.getBagIdentifier() == lastBagDrawnFrom) {
-
-                    }
-                }
-                 *//
+                lock.lock();
 
                 place();
 
                 draw();
 
-                // Win condition checking is locked so only one player can check at any given time
-                lock.lock();
+                int sum = 0;
 
-                // If a player has won and no other player has already fished, the player is set as the finishedPlayer (the winner)
-                // if another player has already  nothing happens, while loop will be skipped on next step due to finishedPlayer not being null
-                if ( whiteBag.sumBag() == 100 && finishedPlayer != null) {
-                    finishedPlayer = this;
+                for (int i : playerHand) {
+                    sum += i;
+                }
+
+                if (sum == 100) {
+                    pebbleGame.setFinishedPlayerBoolean( true );
+
+                    pebbleGame.setFinishedPlayer( this );
+
                 }
 
                 lock.unlock();
 
+                try {
+                    Thread.sleep(10);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+
+                
             }
-
-            // Thread will terminate when while loop is terminated (when a player has finished)
-
         }
-    }
+
 }
