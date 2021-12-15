@@ -4,7 +4,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.concurrent.ThreadLocalRandom;
-import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class PebbleGame {
@@ -57,12 +56,15 @@ public class PebbleGame {
 
     public void startGame() {
 
+        System.out.print( players + "\n"+  "Thread: " + Thread.currentThread() +"\n");
+
         for (Player i : players) {
             i.getTenPebbles();
         }
 
         for (Player i : players) {
-            i.run();
+            i.start();
+            System.out.print(i + "\n\n");
         }
 
     }
@@ -93,14 +95,14 @@ public class PebbleGame {
             this.pebbleGame = pebbleGame;
             this.playerNum = numberOfPlayers;
 
-            fileWriter = new FileWriter( String.valueOf( numberOfPlayers +".txt" ) );
+            fileWriter = new FileWriter(numberOfPlayers + ".txt");
         }
 
         public int getPlayerNum() {
             return playerNum;
         }
 
-        private synchronized void draw() {
+        private void draw() {
 
             while (true) {
 
@@ -110,11 +112,7 @@ public class PebbleGame {
 
                 if ( bag.getPebbles().size() == 0 ) {
 
-                    lock.lock();
-
                     bag.emptyBag();
-
-                    lock.unlock();
 
                     continue;
                 }
@@ -127,11 +125,10 @@ public class PebbleGame {
 
                 try {
 
-                    fileWriter.append("\nplayer" + playerNum + " has drawn a " + pebble + " from bag " + bag.getBagIdentifier() +
-                            "\n" + "player" + playerNum + " hand is " );
+                    fileWriter.append("\nplayer").append(String.valueOf(playerNum)).append(" has drawn a ").append(String.valueOf(pebble)).append(" from bag ").append(String.valueOf(bag.getBagIdentifier())).append("\n").append("player").append(String.valueOf(playerNum)).append(" hand is ");
 
                     for ( Integer i : playerHand ) {
-                        fileWriter.append( i + ", ");
+                        fileWriter.append(String.valueOf(i)).append(", ");
                     }
 
                 } catch ( IOException e ) {
@@ -158,11 +155,10 @@ public class PebbleGame {
 
             try {
 
-                fileWriter.append("\nplayer" + playerNum + " has discarded a " + pebble + " to bag " + lastBagDrawnFrom.getSiblingBag().getBagIdentifier() +
-                        "\n" + "player" + playerNum + " hand is " );
+                fileWriter.append("\nplayer").append(String.valueOf(playerNum)).append(" has discarded a ").append(String.valueOf(pebble)).append(" to bag ").append(String.valueOf(lastBagDrawnFrom.getSiblingBag().getBagIdentifier())).append("\n").append("player").append(String.valueOf(playerNum)).append(" hand is ");
 
                 for ( Integer i : playerHand ) {
-                    fileWriter.append( i + ", ");
+                    fileWriter.append(String.valueOf(i)).append(", ");
                 }
 
             } catch ( IOException e ) {
@@ -182,7 +178,8 @@ public class PebbleGame {
         @Override
         public void run() {
 
-            while (pebbleGame.getFinishedPlayerBoolean() == false) {
+
+            while (!pebbleGame.getFinishedPlayerBoolean()) {
 
                 lock.lock();
 
@@ -196,6 +193,21 @@ public class PebbleGame {
                     sum += i;
                 }
 
+
+                // TODO - TEst delete this
+
+                StringBuilder st = new StringBuilder();
+
+                for ( Integer i : playerHand ) {
+                    st.append(i).append(", ");
+                }
+
+                System.out.print("\nPlayer " + playerNum + "hand is: " + st.toString() + "\nhand total: " + sum);
+
+
+
+
+
                 if (sum == 100) {
                     pebbleGame.setFinishedPlayerBoolean( true );
 
@@ -204,12 +216,6 @@ public class PebbleGame {
                 }
 
                 lock.unlock();
-
-                try {
-                    Thread.sleep(10);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
 
                 
             }

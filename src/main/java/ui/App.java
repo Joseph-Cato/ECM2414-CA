@@ -210,7 +210,7 @@ public class App {
         System.out.print("\n Game has started...");
 
         while (true) {
-            if (game.getFinishedPlayerBoolean() == true) {
+            if (game.getFinishedPlayerBoolean()) {
 
                 System.out.println( game.announceFinishedPlayer() );
 
@@ -218,11 +218,13 @@ public class App {
 
             }
 
+            /**
             try {
                 Thread.sleep(100);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+             **/
         }
 
 

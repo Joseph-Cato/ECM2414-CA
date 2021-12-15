@@ -1,0 +1,3145 @@
+
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 10, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 10, 10, 8, 8, 8, 5, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 10, 8, 8, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 8, 5, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 8, 8, 8, 5, 10, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 10, 8, 8, 8, 5, 10, 8, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 10, 8, 8, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 5, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 10, 8, 5, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 10, 8, 5, 8, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 5, 8, 8, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 5, 8, 8, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 5, 8, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 10, 5, 8, 8, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 5, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 5, 8, 8, 10, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 10, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 5, 8, 8, 10, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 8, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 8, 10, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 8, 8, 10, 8, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 8, 8, 10, 8, 10, 10, 8, 10, 8, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 8, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 8, 8, 8, 8, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 8, 8, 8, 8, 5, 8, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 8, 8, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 8, 8, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 8, 8, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 8, 8, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 8, 8, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 8, 8, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 8, 8, 8, 10, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 8, 8, 10, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 8, 8, 10, 5, 8, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 8, 8, 8, 8, 8, 10, 5, 8, 10, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 8, 8, 8, 8, 8, 10, 5, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 8, 8, 8, 10, 5, 8, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 8, 8, 8, 10, 5, 8, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 8, 8, 8, 8, 8, 10, 5, 8, 10, 10, 
+player3 has discarded a 8 to bag A
+player3 hand is 8, 8, 8, 8, 10, 5, 8, 10, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 8, 8, 8, 8, 10, 5, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 8, 8, 8, 10, 5, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 8, 10, 5, 8, 10, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 5, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 8, 8, 8, 10, 5, 8, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 8, 8, 10, 5, 8, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 8, 8, 10, 5, 8, 10, 10, 10, 8, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 8, 10, 10, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 8, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 10, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 8, 10, 10, 8, 8, 10, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag X
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 8, 10, 8, 10, 10, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 10, 8, 10, 10, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 10, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 8, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 8, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 8, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 8, 5, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 8, 10, 10, 8, 5, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 8, 10, 10, 8, 5, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 8, 5, 10, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 10, 8, 5, 10, 8, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 8, 5, 10, 8, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 5, 10, 8, 5, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 10, 8, 5, 10, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 5, 10, 8, 5, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 5, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 5, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 10, 5, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 5, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 5, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 8, 8, 10, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 5, 8, 8, 10, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 5, 8, 8, 10, 5, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 8, 8, 10, 5, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 5, 8, 8, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 8, 8, 5, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 5, 8, 8, 5, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 8, 8, 5, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 8, 8, 5, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 8, 8, 5, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 5, 8, 5, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 8, 5, 10, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 10, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 5, 10, 8, 8, 10, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 5, 10, 8, 8, 10, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 8, 8, 10, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 8, 8, 10, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 8, 8, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 10, 8, 8, 10, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 8, 8, 10, 10, 10, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 5, 8, 8, 10, 10, 10, 8, 8, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 5, 8, 8, 10, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 8, 10, 10, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 8, 10, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 8, 8, 10, 10, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 8, 10, 10, 10, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 5, 8, 8, 10, 10, 10, 8, 10, 8, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 8, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 8, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 8, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 10, 10, 8, 10, 8, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 8, 10, 10, 8, 10, 8, 5, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 8, 10, 8, 5, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 8, 10, 8, 5, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 8, 5, 8, 10, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 8, 5, 8, 10, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 5, 8, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 5, 8, 10, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 5, 8, 10, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 5, 8, 10, 8, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 5, 8, 10, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 5, 8, 10, 8, 5, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 8, 10, 8, 5, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 8, 10, 8, 5, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 8, 10, 8, 5, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 10, 8, 5, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 8, 8, 5, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 8, 5, 8, 8, 10, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 10, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 10, 8, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 5, 8, 8, 8, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 8, 8, 8, 10, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 8, 10, 10, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 8, 10, 10, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 8, 10, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 10, 5, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 8, 8, 10, 10, 8, 10, 5, 10, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 10, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 10, 8, 10, 10, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 10, 10, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 10, 5, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 10, 5, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 8, 10, 10, 8, 10, 5, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 10, 10, 8, 10, 5, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 10, 5, 5, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 10, 10, 5, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 10, 10, 5, 5, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 10, 10, 5, 5, 8, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 10, 10, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 10, 5, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 8, 10, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 8, 8, 10, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 5, 8, 8, 10, 8, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 8, 8, 10, 8, 5, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 8, 8, 10, 8, 5, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 8, 8, 10, 8, 5, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 5, 8, 8, 10, 8, 5, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 8, 8, 10, 8, 5, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 5, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 10, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 5, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 8, 10, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 8, 8, 10, 5, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 8, 10, 5, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 8, 10, 5, 10, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 8, 10, 5, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 8, 10, 5, 10, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 5, 8, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 10, 8, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 10, 8, 8, 8, 10, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 10, 8, 8, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 8, 10, 8, 8, 8, 10, 10, 8, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 8, 8, 8, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 8, 8, 10, 10, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 8, 8, 10, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 8, 8, 8, 10, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 8, 10, 8, 10, 8, 5, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 8, 10, 8, 5, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 5, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 5, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 5, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 8, 5, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 10, 8, 8, 5, 5, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 10, 8, 8, 5, 5, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 5, 5, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 5, 5, 10, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 5, 5, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 5, 5, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 5, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 5, 5, 10, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 5, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 5, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 5, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 5, 5, 10, 8, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 5, 10, 8, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 5, 10, 8, 8, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 5, 10, 8, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 10, 8, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 8, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 10, 8, 10, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 10, 8, 10, 8, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 10, 8, 10, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 10, 8, 10, 8, 5, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 10, 8, 8, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 8, 8, 5, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 10, 8, 8, 5, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 10, 8, 8, 5, 8, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 5, 10, 8, 8, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 10, 8, 8, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 5, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 10, 8, 8, 10, 5, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 10, 8, 8, 10, 5, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 8, 10, 5, 8, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 5, 8, 10, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 10, 5, 8, 5, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 5, 8, 5, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 8, 10, 5, 5, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 5, 5, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 5, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 5, 5, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 5, 5, 10, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 5, 5, 10, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 5, 5, 10, 10, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 5, 10, 10, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 5, 5, 10, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 5, 5, 10, 8, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 5, 10, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 5, 5, 10, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 5, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 5, 5, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 5, 5, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 5, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 5, 10, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 5, 10, 8, 10, 8, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 5, 10, 8, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 10, 8, 10, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 10, 8, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 10, 8, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 10, 8, 8, 8, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 5, 8, 8, 8, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 5, 8, 8, 8, 10, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 5, 8, 8, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 8, 8, 8, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 8, 8, 8, 5, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 5, 8, 8, 8, 5, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 8, 8, 5, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 8, 8, 5, 8, 10, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 5, 8, 8, 5, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 8, 8, 5, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 8, 8, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 5, 8, 8, 5, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 8, 5, 8, 10, 8, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 5, 8, 8, 8, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 8, 8, 10, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 5, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 8, 10, 8, 10, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 8, 10, 8, 10, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 8, 10, 8, 10, 10, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 8, 10, 8, 10, 10, 5, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 8, 10, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 10, 5, 10, 8, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 10, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 10, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 10, 8, 10, 5, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 10, 10, 8, 10, 5, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 10, 10, 5, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 10, 10, 10, 5, 8, 5, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 10, 10, 10, 5, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 10, 10, 10, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 10, 10, 5, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 10, 10, 5, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 10, 10, 5, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 10, 10, 5, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 10, 5, 8, 10, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 10, 5, 8, 10, 10, 8, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 10, 8, 10, 10, 8, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 10, 8, 10, 10, 8, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 10, 10, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 10, 10, 8, 5, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 10, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 10, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 8, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 10, 8, 5, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 5, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 5, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 5, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 5, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 8, 5, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 8, 5, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 8, 5, 8, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 8, 5, 8, 8, 8, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 8, 8, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 5, 8, 8, 8, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 5, 8, 8, 10, 10, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 5, 8, 8, 10, 10, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 8, 8, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 5, 8, 8, 10, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 5, 8, 8, 10, 10, 8, 8, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 8, 8, 10, 8, 8, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 5, 8, 8, 10, 8, 8, 5, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 5, 8, 10, 8, 8, 5, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 5, 8, 10, 8, 8, 5, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 8, 8, 8, 5, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 5, 8, 8, 8, 5, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 8, 8, 8, 5, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 5, 8, 8, 8, 5, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 8, 8, 8, 5, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 5, 8, 8, 8, 5, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 5, 8, 8, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 5, 8, 8, 5, 10, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 5, 8, 5, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 5, 8, 5, 10, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 5, 10, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 8, 5, 10, 10, 8, 8, 10, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 5, 10, 10, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 5, 10, 10, 8, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 10, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 5, 10, 10, 8, 8, 10, 8, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 10, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 10, 8, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 10, 10, 10, 8, 10, 5, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 10, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 10, 10, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 10, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 10, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 10, 10, 5, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 10, 10, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 10, 5, 8, 8, 10, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 5, 8, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 5, 8, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 8, 10, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 8, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 8, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 8, 8, 8, 8, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 8, 8, 5, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 8, 8, 5, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 8, 8, 8, 8, 5, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 8, 8, 8, 8, 5, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 8, 5, 10, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 8, 5, 10, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 5, 10, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 8, 8, 5, 10, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 8, 8, 8, 5, 10, 10, 10, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 8, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 5, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 5, 10, 10, 5, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 5, 10, 10, 5, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 5, 10, 10, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 5, 10, 10, 5, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 10, 5, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 5, 10, 5, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 5, 8, 8, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 5, 5, 8, 10, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 5, 8, 10, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 5, 8, 10, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 5, 5, 8, 10, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 5, 5, 8, 10, 10, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 5, 8, 10, 10, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 5, 5, 10, 10, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 5, 5, 10, 10, 8, 10, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 5, 10, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 5, 10, 8, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 5, 5, 10, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 5, 10, 8, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 5, 10, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 10, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 5, 8, 10, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 8, 10, 8, 10, 10, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 8, 10, 8, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 10, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 8, 10, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 5, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 5, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 5, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 10, 8, 8, 10, 5, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 10, 8, 8, 10, 5, 10, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 10, 5, 10, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 5, 10, 5, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 8, 8, 10, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 5, 10, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 8, 10, 5, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 5, 10, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 10, 5, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 10, 5, 10, 10, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 5, 10, 10, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 5, 10, 10, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 10, 10, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 5, 10, 10, 8, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 8, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 8, 8, 8, 10, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 10, 8, 8, 8, 10, 10, 5, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 8, 8, 8, 10, 10, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 8, 8, 10, 10, 5, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 8, 8, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 8, 8, 8, 10, 5, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 8, 8, 5, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 8, 8, 5, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 8, 8, 8, 5, 10, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 8, 8, 8, 5, 10, 8, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 10, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 5, 10, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 5, 10, 8, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 10, 8, 10, 5, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 5, 10, 8, 10, 5, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 5, 10, 10, 5, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 5, 10, 10, 5, 8, 10, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 10, 5, 8, 10, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 5, 8, 10, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 5, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 10, 5, 8, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 5, 8, 10, 10, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 5, 8, 10, 10, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 10, 10, 10, 8, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 5, 10, 10, 10, 8, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 10, 10, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 10, 10, 8, 5, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 5, 10, 10, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 5, 10, 10, 8, 5, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 10, 10, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 10, 10, 8, 5, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 10, 10, 8, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 10, 8, 5, 8, 10, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 10, 10, 8, 5, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 10, 8, 5, 8, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 5, 8, 10, 8, 8, 10, 8, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 8, 10, 8, 8, 10, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 10, 8, 8, 10, 8, 5, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 5, 8, 10, 8, 8, 10, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 8, 10, 8, 8, 10, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 8, 8, 10, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 8, 8, 10, 8, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 8, 8, 10, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 8, 8, 10, 8, 10, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 10, 8, 8, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 10, 8, 8, 8, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 8, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 8, 8, 8, 10, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 8, 8, 8, 10, 10, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 5, 8, 8, 8, 10, 10, 8, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 8, 8, 10, 10, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 8, 10, 10, 8, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 8, 10, 10, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 8, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 10, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 8, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 10, 10, 5, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 8, 10, 10, 5, 10, 8, 5, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 8, 10, 10, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 5, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 10, 5, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 5, 10, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 10, 5, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 5, 10, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 10, 5, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 5, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 5, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 5, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 5, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 5, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 5, 8, 8, 10, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 5, 8, 8, 10, 10, 8, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 8, 8, 10, 10, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 8, 8, 10, 10, 8, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 10, 10, 8, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 8, 8, 10, 10, 8, 5, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 8, 10, 10, 8, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 8, 8, 10, 10, 8, 5, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 8, 10, 8, 5, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 5, 8, 10, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 10, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 8, 10, 8, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 10, 8, 8, 10, 10, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 10, 8, 8, 10, 10, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 10, 8, 8, 10, 10, 10, 8, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 10, 8, 8, 10, 10, 8, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 10, 8, 8, 10, 10, 8, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 10, 8, 10, 10, 8, 5, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 10, 8, 10, 10, 8, 5, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 10, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 10, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 10, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 10, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 10, 10, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 10, 10, 8, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 8, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 10, 5, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 10, 8, 5, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 10, 8, 5, 8, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 10, 8, 5, 8, 10, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 10, 8, 5, 8, 10, 8, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 10, 8, 5, 8, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 10, 8, 5, 8, 10, 8, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 10, 8, 5, 8, 8, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 10, 8, 5, 8, 8, 5, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 10, 5, 8, 8, 5, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 10, 5, 8, 8, 5, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 8, 8, 5, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 8, 8, 5, 10, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 5, 10, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 5, 8, 8, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 5, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 5, 8, 8, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 5, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 8, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 8, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 5, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 5, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 8, 10, 8, 8, 5, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 10, 8, 8, 5, 10, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 10, 8, 5, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 10, 8, 5, 10, 10, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 8, 5, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 8, 8, 5, 10, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 8, 5, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 5, 10, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 5, 10, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 5, 10, 10, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 5, 10, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 5, 10, 8, 8, 8, 10, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 5, 10, 8, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 5, 10, 8, 8, 10, 10, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 5, 10, 8, 8, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 5, 10, 8, 8, 10, 10, 10, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 5, 10, 8, 8, 10, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 10, 8, 8, 10, 10, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 10, 8, 8, 10, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 10, 8, 8, 10, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 8, 8, 10, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 10, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 10, 10, 8, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 10, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 8, 10, 10, 8, 8, 10, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 10, 10, 8, 8, 10, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 5, 8, 10, 10, 8, 8, 10, 10, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 10, 5, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 10, 10, 8, 10, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 8, 10, 10, 8, 8, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 10, 8, 10, 10, 8, 8, 8, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 10, 8, 8, 8, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 10, 8, 8, 8, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 10, 8, 8, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 10, 8, 8, 8, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 8, 8, 8, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 10, 8, 8, 8, 5, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 10, 8, 8, 8, 5, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 8, 5, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 8, 5, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 5, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 5, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 8, 5, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 5, 8, 10, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 5, 8, 10, 10, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 5, 8, 10, 10, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 5, 8, 10, 10, 5, 8, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 10, 5, 10, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 10, 10, 5, 10, 10, 8, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 10, 10, 5, 10, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 10, 10, 5, 10, 10, 8, 5, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 10, 10, 5, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 10, 10, 5, 10, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 8, 10, 10, 10, 10, 8, 8, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 10, 10, 10, 10, 8, 8, 8, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 10, 10, 10, 10, 8, 8, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 10, 10, 10, 10, 8, 8, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 10, 10, 10, 10, 8, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 10, 10, 10, 10, 8, 8, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 10, 10, 8, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 10, 8, 8, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 10, 8, 8, 5, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 10, 10, 8, 8, 5, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 10, 8, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 10, 8, 8, 5, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 8, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 8, 5, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 8, 5, 8, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 10, 8, 5, 8, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 8, 5, 8, 10, 8, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 10, 8, 5, 8, 10, 8, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 5, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 5, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 10, 8, 5, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 10, 8, 5, 8, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 10, 8, 5, 8, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 10, 8, 5, 8, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 10, 8, 5, 8, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 8, 8, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 8, 10, 8, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 5, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 8, 8, 8, 5, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 8, 5, 8, 10, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 10, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 8, 8, 10, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 5, 8, 8, 8, 10, 8, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 8, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 5, 8, 8, 10, 8, 8, 5, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 8, 10, 8, 8, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 8, 10, 8, 8, 5, 10, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 10, 5, 8, 10, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 5, 8, 10, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 10, 8, 8, 10, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 5, 8, 10, 8, 8, 10, 8, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 8, 10, 8, 10, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 10, 8, 10, 8, 10, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 8, 10, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 10, 5, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 5, 8, 8, 10, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 8, 8, 10, 8, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 10, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 10, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 8, 8, 10, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 8, 8, 10, 10, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 5, 8, 8, 10, 8, 8, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 8, 8, 10, 8, 8, 8, 10, 5, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 5, 8, 8, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 8, 8, 10, 8, 8, 8, 10, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 8, 10, 8, 8, 10, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 5, 8, 8, 10, 8, 8, 10, 10, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 10, 8, 8, 10, 10, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 10, 8, 8, 10, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 10, 8, 8, 10, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 10, 8, 8, 10, 10, 5, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 8, 10, 10, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 8, 8, 8, 10, 10, 5, 8, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 8, 10, 10, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 5, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 10, 5, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 5, 8, 8, 10, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 8, 8, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 5, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 5, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 10, 8, 5, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 5, 10, 5, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 10, 8, 10, 5, 8, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 8, 10, 5, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 5, 8, 10, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 10, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 8, 10, 10, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 8, 10, 10, 10, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 10, 8, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 10, 10, 8, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 10, 8, 10, 8, 5, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 10, 10, 8, 10, 8, 5, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 10, 10, 8, 10, 8, 5, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 10, 10, 8, 10, 8, 5, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 8, 10, 8, 5, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 8, 10, 8, 5, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 5, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 8, 10, 8, 5, 8, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 8, 5, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 8, 5, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 8, 8, 5, 10, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 5, 10, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 8, 8, 5, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 5, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 8, 8, 5, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 5, 8, 10, 5, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 8, 8, 8, 10, 5, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 8, 10, 5, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 8, 8, 8, 5, 10, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 8, 8, 5, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 8, 8, 8, 5, 5, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 5, 5, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 5, 5, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 8, 5, 5, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 8, 8, 5, 5, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 8, 5, 5, 8, 8, 10, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 10, 8, 8, 5, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 10, 8, 8, 5, 8, 8, 10, 10, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 5, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 5, 10, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 5, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 10, 10, 8, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 10, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 10, 10, 8, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 8, 5, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 10, 8, 8, 8, 10, 8, 5, 10, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 8, 8, 8, 8, 5, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 5, 10, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 8, 8, 5, 10, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 8, 5, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 8, 5, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 10, 5, 10, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 5, 10, 5, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 5, 10, 5, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 5, 10, 5, 10, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 5, 10, 5, 10, 8, 10, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 5, 10, 10, 8, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 10, 10, 8, 10, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 5, 10, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 5, 10, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 8, 8, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 8, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 8, 8, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 8, 8, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 8, 8, 8, 10, 5, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 8, 10, 5, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 8, 8, 10, 5, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 8, 10, 5, 10, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 8, 5, 10, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 5, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 8, 5, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 5, 10, 5, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 5, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 8, 5, 10, 5, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 8, 5, 5, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 5, 5, 10, 8, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 8, 5, 10, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 8, 5, 10, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 8, 5, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 10, 8, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 10, 8, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 10, 8, 10, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 8, 10, 8, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 10, 8, 10, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 10, 8, 10, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 10, 8, 10, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 10, 8, 10, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 10, 8, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 10, 8, 8, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 10, 8, 8, 8, 10, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 10, 8, 8, 8, 10, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 10, 8, 8, 10, 10, 5, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 10, 8, 8, 10, 10, 5, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 10, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 10, 10, 5, 5, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 10, 5, 5, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 10, 5, 5, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 10, 5, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 10, 5, 5, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 8, 8, 10, 5, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 10, 5, 10, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 5, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 10, 5, 10, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 10, 5, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 5, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 5, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 5, 8, 8, 10, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 8, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 8, 10, 5, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 10, 8, 10, 5, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 10, 5, 8, 10, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 10, 8, 10, 8, 10, 8, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 8, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 5, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 8, 10, 8, 8, 10, 5, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 8, 8, 10, 5, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 8, 10, 8, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 8, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 5, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 8, 10, 8, 10, 5, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 8, 10, 8, 10, 5, 8, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 10, 8, 10, 8, 10, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 8, 10, 5, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 10, 8, 10, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 10, 8, 10, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 8, 10, 5, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 8, 8, 10, 5, 8, 8, 10, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 8, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 8, 8, 10, 10, 5, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 8, 8, 10, 10, 5, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 8, 10, 10, 5, 5, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 8, 10, 10, 5, 5, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 10, 5, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 10, 10, 5, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 10, 5, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 5, 5, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 5, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 5, 5, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 5, 5, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 5, 5, 8, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 5, 8, 10, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 5, 8, 10, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 5, 8, 10, 8, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 5, 8, 8, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 10, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 8, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 10, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 5, 8, 8, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 10, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 5, 5, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 5, 8, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 5, 8, 8, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 8, 8, 8, 10, 10, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 5, 8, 8, 8, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 10, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 8, 8, 8, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 8, 8, 8, 10, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 8, 10, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 8, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 8, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 8, 8, 10, 8, 8, 10, 10, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 8, 8, 10, 10, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 5, 8, 8, 8, 8, 10, 10, 8, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 8, 8, 10, 10, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 8, 8, 10, 10, 8, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 8, 10, 10, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 8, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 8, 10, 10, 10, 5, 10, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 10, 10, 5, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 10, 10, 5, 10, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 5, 10, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 10, 5, 10, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 10, 5, 10, 5, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 10, 5, 10, 5, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 10, 5, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 5, 5, 8, 8, 10, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 5, 5, 8, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 5, 8, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 5, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 5, 5, 10, 10, 10, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 10, 5, 10, 10, 10, 8, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 10, 5, 10, 10, 10, 8, 8, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 10, 10, 5, 10, 10, 8, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 5, 10, 10, 8, 8, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 5, 10, 10, 8, 8, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 10, 10, 5, 10, 10, 8, 8, 5, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 10, 10, 8, 8, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 10, 10, 8, 8, 5, 10, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 5, 10, 10, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 10, 10, 8, 8, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 10, 10, 8, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 10, 8, 8, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 10, 10, 8, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 10, 8, 8, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 10, 10, 8, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 10, 8, 8, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 10, 10, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 10, 10, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 5, 10, 8, 10, 8, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 8, 10, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 10, 5, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 10, 5, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 5, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 5, 10, 8, 10, 8, 8, 8, 5, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 10, 8, 10, 8, 8, 5, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 10, 8, 10, 8, 8, 5, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 10, 8, 10, 8, 8, 5, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 10, 8, 10, 8, 8, 5, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 10, 8, 8, 8, 5, 10, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 10, 8, 8, 8, 5, 10, 10, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 8, 5, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 8, 8, 8, 5, 10, 10, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 8, 5, 10, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 8, 8, 5, 10, 10, 10, 8, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 5, 10, 10, 10, 8, 8, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 5, 10, 10, 10, 8, 8, 8, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 10, 8, 8, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 10, 10, 10, 8, 8, 8, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 10, 8, 8, 8, 5, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 10, 8, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 8, 8, 5, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 8, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 8, 5, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 10, 5, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 10, 5, 8, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 10, 5, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 10, 5, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 5, 10, 5, 10, 8, 8, 10, 10, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 5, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 5, 10, 8, 8, 10, 10, 8, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 10, 8, 8, 10, 10, 8, 5, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 10, 10, 8, 8, 10, 10, 8, 5, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 10, 8, 8, 10, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 10, 10, 8, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 8, 8, 10, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 8, 8, 10, 8, 5, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 8, 8, 10, 8, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 8, 8, 10, 8, 5, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 8, 10, 8, 5, 8, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 8, 10, 8, 5, 8, 8, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 8, 10, 8, 5, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 8, 5, 8, 8, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 5, 8, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 8, 10, 5, 8, 8, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 8, 8, 10, 5, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 8, 8, 10, 5, 10, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 5, 8, 10, 5, 10, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 8, 10, 5, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 8, 10, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 8, 10, 5, 10, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 5, 8, 10, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 5, 8, 10, 5, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 5, 8, 10, 5, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 8, 10, 5, 10, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 10, 5, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 5, 8, 10, 5, 10, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 5, 8, 10, 5, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 5, 8, 10, 5, 10, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 5, 8, 10, 5, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 5, 8, 10, 5, 10, 8, 8, 10, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 5, 10, 8, 8, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 5, 10, 8, 8, 10, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 5, 10, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 5, 10, 8, 8, 10, 10, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 5, 8, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 10, 8, 8, 10, 5, 8, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 8, 8, 10, 5, 8, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 8, 8, 10, 5, 8, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 8, 10, 5, 8, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 10, 8, 10, 5, 8, 5, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 10, 5, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 10, 5, 8, 5, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 10, 5, 8, 5, 10, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 10, 5, 8, 5, 10, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 8, 10, 8, 10, 5, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 8, 10, 8, 10, 5, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 5, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 8, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 10, 8, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 5, 10, 8, 5, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 10, 8, 5, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 5, 10, 8, 5, 8, 8, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 5, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 10, 8, 8, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 10, 5, 10, 8, 8, 8, 10, 5, 10, 
+player3 has discarded a 5 to bag A
+player3 hand is 10, 10, 10, 8, 8, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 10, 8, 8, 8, 10, 5, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 10, 8, 8, 10, 5, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 10, 5, 10, 8, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 10, 5, 10, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 10, 5, 10, 8, 5, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 5, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 5, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 8, 10, 5, 5, 5, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 8, 10, 5, 5, 5, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 10, 5, 5, 5, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 10, 5, 5, 5, 8, 8, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 10, 10, 8, 10, 5, 5, 8, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 10, 5, 5, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 5, 5, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 10, 10, 5, 5, 8, 8, 8, 10, 5, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 10, 5, 5, 8, 8, 10, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 10, 5, 5, 8, 8, 10, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 5, 5, 8, 10, 5, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 10, 5, 5, 8, 10, 5, 10, 8, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 10, 5, 5, 8, 10, 5, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 5, 8, 10, 5, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 5, 5, 8, 10, 5, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 5, 8, 10, 5, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 5, 5, 8, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 5, 5, 8, 5, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 5, 5, 8, 5, 10, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 5, 5, 8, 5, 10, 8, 8, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 5, 5, 8, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 5, 5, 8, 5, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 5, 5, 8, 5, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 5, 5, 8, 5, 10, 8, 8, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 5, 5, 8, 10, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 5, 5, 8, 10, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 5, 5, 8, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 5, 5, 8, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 5, 8, 10, 8, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 5, 8, 10, 8, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 5, 8, 10, 8, 8, 10, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 5, 5, 8, 10, 8, 8, 10, 10, 8, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 5, 8, 8, 8, 10, 10, 8, 5, 
+player3 has drawn a 10 from bag X
+player3 hand is 5, 5, 8, 8, 8, 10, 10, 8, 5, 10, 
+player3 has discarded a 5 to bag A
+player3 hand is 5, 8, 8, 8, 10, 10, 8, 5, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 8, 8, 8, 10, 10, 8, 5, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 5, 8, 8, 8, 10, 8, 5, 10, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 5, 8, 8, 8, 10, 8, 5, 10, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 8, 10, 8, 5, 10, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 5, 8, 8, 10, 8, 5, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 5, 8, 8, 10, 5, 10, 10, 10, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 5, 8, 8, 10, 5, 10, 10, 10, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 5, 8, 8, 10, 5, 10, 10, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 5, 8, 8, 10, 5, 10, 10, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 5, 8, 10, 5, 10, 10, 10, 5, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 5, 8, 10, 5, 10, 10, 10, 5, 8, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 8, 10, 5, 10, 10, 10, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 10, 5, 10, 10, 10, 5, 8, 8, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 10, 10, 10, 10, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 10, 5, 8, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 10, 10, 5, 8, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 10, 10, 5, 8, 10, 8, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 8, 10, 10, 10, 5, 8, 10, 8, 5, 8, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 10, 10, 10, 8, 10, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 10, 10, 8, 10, 8, 5, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 5, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 10, 8, 10, 8, 5, 8, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 10, 8, 8, 5, 8, 10, 8, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 10, 10, 10, 8, 8, 8, 10, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 10, 8, 8, 8, 10, 8, 8, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 8, 8, 5, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 10, 8, 8, 8, 10, 8, 8, 5, 5, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 5, 5, 
+player3 has drawn a 5 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 8, 8, 5, 5, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 8, 10, 8, 8, 5, 5, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 8, 10, 8, 8, 5, 5, 5, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 8, 10, 8, 8, 5, 5, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 8, 8, 8, 10, 8, 8, 5, 5, 10, 10, 
+player3 has discarded a 5 to bag A
+player3 hand is 8, 8, 8, 10, 8, 8, 5, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 8, 10, 8, 8, 5, 10, 10, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 5 from bag X
+player3 hand is 8, 8, 8, 10, 8, 8, 10, 10, 5, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 8, 8, 10, 8, 8, 10, 10, 5, 5, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 8, 8, 10, 10, 5, 5, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 8, 8, 10, 10, 5, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 8, 8, 10, 10, 5, 5, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 10, 8, 8, 10, 5, 5, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 8, 8, 10, 5, 5, 10, 5, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 8, 8, 10, 5, 5, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 8, 8, 10, 8, 8, 10, 5, 5, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 8, 10, 5, 5, 10, 10, 
+player3 has drawn a 5 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 5, 5, 10, 10, 5, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 10, 8, 10, 5, 5, 10, 5, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 10, 8, 10, 5, 5, 10, 5, 10, 
+player3 has discarded a 5 to bag C
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 5, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 5, 10, 8, 
+player3 has discarded a 10 to bag A
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 5, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 8, 10, 8, 10, 5, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 8, 10, 8, 10, 5, 10, 8, 8, 8, 
+player3 has drawn a 10 from bag X
+player3 hand is 8, 10, 8, 10, 5, 10, 8, 8, 8, 10, 
+player3 has discarded a 5 to bag A
+player3 hand is 8, 10, 8, 10, 10, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 8, 10, 8, 10, 10, 8, 8, 8, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 10, 8, 10, 8, 8, 8, 10, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 8, 10, 8, 10, 8, 8, 8, 10, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 10, 8, 8, 8, 10, 5, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 8, 10, 8, 8, 8, 10, 5, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 8, 8, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 8, 10, 8, 5, 8, 8, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 8, 10, 8, 5, 8, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 10, 8, 5, 8, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 8, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 10, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 10, 8, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 10, 5, 8, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 10, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 8, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 8, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 8, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 8, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 5, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 5, 10, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 10, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 10, 10, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 10, 8, 8, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 5, 8, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 5, 8, 5, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 10, 8, 8, 8, 10, 5, 8, 5, 10, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 10, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 10, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 10, 5, 8, 5, 10, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 5, 8, 5, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 5, 8, 5, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 8, 5, 8, 5, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 8, 5, 8, 5, 10, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 8, 5, 10, 8, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 5, 8, 5, 10, 8, 8, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 5, 5, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 5, 5, 10, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 5, 5, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 5, 5, 10, 8, 8, 8, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 8, 8, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 5, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 8, 5, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 5, 8, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 5, 8, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 8, 8, 5, 8, 10, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 5, 8, 8, 5, 8, 10, 8, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 5, 8, 8, 5, 10, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 8, 5, 8, 8, 5, 10, 8, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 10, 10, 8, 8, 8, 5, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 8, 8, 5, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 8, 5, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 8, 5, 10, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 8, 5, 10, 8, 8, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 8, 5, 10, 8, 8, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 8, 5, 10, 8, 10, 8, 
+player3 has drawn a 5 from bag X
+player3 hand is 10, 10, 8, 8, 5, 10, 8, 10, 8, 5, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 8, 5, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 8, 5, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 5, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 10, 8, 5, 10, 8, 10, 5, 10, 10, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 10, 8, 10, 5, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 10, 8, 10, 5, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 10, 8, 10, 5, 10, 10, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 10, 10, 10, 8, 10, 5, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 10, 8, 10, 5, 10, 10, 8, 8, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 10, 5, 10, 10, 8, 8, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 10, 8, 5, 10, 10, 8, 8, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 10, 8, 5, 10, 10, 8, 8, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 8, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 10, 8, 5, 10, 8, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 10, 8, 5, 8, 8, 8, 10, 10, 5, 
+player3 has discarded a 5 to bag B
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 10, 8, 8, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 8, 10, 10, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 8, 10, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 8, 10, 5, 8, 10, 
+player3 has drawn a 10 from bag Y
+player3 hand is 10, 8, 8, 8, 8, 10, 5, 8, 10, 10, 
+player3 has discarded a 8 to bag B
+player3 hand is 10, 8, 8, 8, 10, 5, 8, 10, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 10, 5, 8, 10, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 5, 8, 10, 10, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 8, 8, 8, 5, 8, 10, 10, 10, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 8, 8, 8, 5, 8, 10, 10, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 8, 10, 10, 10, 10, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 10, 8, 
+player3 has discarded a 8 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 10, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 10, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 10, 
+player3 has drawn a 8 from bag Z
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 10, 8, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 8, 
+player3 has drawn a 8 from bag Y
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 10, 8, 8, 
+player3 has discarded a 10 to bag B
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 8, 8, 
+player3 has drawn a 10 from bag X
+player3 hand is 10, 8, 8, 8, 5, 10, 10, 8, 8, 10, 
+player3 has discarded a 8 to bag A
+player3 hand is 10, 8, 8, 5, 10, 10, 8, 8, 10, 
+player3 has drawn a 10 from bag Z
+player3 hand is 10, 8, 8, 5, 10, 10, 8, 8, 10, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 10, 8, 8, 5, 10, 8, 8, 10, 10, 
+player3 has drawn a 5 from bag Y
+player3 hand is 10, 8, 8, 5, 10, 8, 8, 10, 10, 5, 
+player3 has discarded a 10 to bag B
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 10, 5, 
+player3 has drawn a 8 from bag X
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 10, 5, 8, 
+player3 has discarded a 10 to bag A
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag X
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag A
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 5, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 5, 8, 10, 
+player3 has discarded a 10 to bag C
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 5, 8, 
+player3 has drawn a 8 from bag X
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 5, 8, 8, 
+player3 has discarded a 5 to bag A
+player3 hand is 8, 8, 5, 10, 8, 8, 10, 8, 8, 
+player3 has drawn a 10 from bag Z
+player3 hand is 8, 8

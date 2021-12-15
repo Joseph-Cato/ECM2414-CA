@@ -1,12 +1,6 @@
 package pebbelgame;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Bag {
@@ -42,9 +36,11 @@ public class Bag {
     }
 
     public synchronized void emptyBag() {
-        siblingBag.setPebbles( this.getPebbles() );
 
-        this.setPebbles( new ArrayList<Integer>() );
+
+        this.setPebbles(siblingBag.getPebbles() );
+
+        siblingBag.setPebbles( new ArrayList<Integer>() );
 
     }
 
@@ -75,8 +71,6 @@ public class Bag {
 
     }
 
-
-    //TODO - logging
 
 
 
