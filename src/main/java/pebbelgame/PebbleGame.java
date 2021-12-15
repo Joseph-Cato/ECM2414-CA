@@ -12,8 +12,8 @@ public class PebbleGame {
     private Bag[] blackBags;
     private static int numberOfPlayers = 0;
     private ArrayList<Player> players = new ArrayList<Player>();
-    private static Boolean finishedPlayerBoolean = false;
-    private static Player finishedPlayer = null;
+    private static volatile Boolean finishedPlayerBoolean = false;
+    private static volatile Player finishedPlayer = null;
 
 
     public PebbleGame() {
@@ -56,7 +56,6 @@ public class PebbleGame {
 
     public void startGame() {
 
-        System.out.print( players + "\n"+  "Thread: " + Thread.currentThread() +"\n");
 
         for (Player i : players) {
             i.getTenPebbles();
@@ -64,7 +63,7 @@ public class PebbleGame {
 
         for (Player i : players) {
             i.start();
-            System.out.print(i + "\n\n");
+
         }
 
     }
@@ -192,21 +191,6 @@ public class PebbleGame {
                 for (int i : playerHand) {
                     sum += i;
                 }
-
-
-                // TODO - TEst delete this
-
-                StringBuilder st = new StringBuilder();
-
-                for ( Integer i : playerHand ) {
-                    st.append(i).append(", ");
-                }
-
-                System.out.print("\nPlayer " + playerNum + "hand is: " + st.toString() + "\nhand total: " + sum);
-
-
-
-
 
                 if (sum == 100) {
                     pebbleGame.setFinishedPlayerBoolean( true );
