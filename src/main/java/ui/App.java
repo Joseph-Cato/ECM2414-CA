@@ -132,7 +132,7 @@ public class App {
         }
     }
 
-    public void gameStart() {
+    public void gameStart() throws InvalidDataException {
 
         System.out.print("""
     Welcome to the PebbleGame!!
@@ -201,6 +201,21 @@ public class App {
                 break;
 
             }
+        }
+
+        // Checks there are 11 times as many pebbles as players
+
+        int totalPebbleCount = 0;
+
+        for (Bag i : game.getBlackBags()) {
+            totalPebbleCount += i.getPebbles().size();
+        }
+
+        if ( totalPebbleCount < 11*numberOfPlayers ) {
+
+            System.out.print("\n\nERROR: There are not enough pebbles to run this game.\nPlease make sure there are at least 11 times as many pebbles as players.\n\nExiting...");
+
+            throw new InvalidDataException();
         }
 
 

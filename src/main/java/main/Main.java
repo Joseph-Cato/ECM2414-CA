@@ -1,5 +1,6 @@
 package main;
 
+import pebbelgame.InvalidDataException;
 import ui.App;
 
 public class Main {
@@ -8,7 +9,11 @@ public class Main {
 
         App app = new App();
 
-        app.gameStart();
+        try {
+            app.gameStart();
+        } catch (InvalidDataException e) {
+            // Do Nothing
+        }
     }
 
 
