@@ -11,12 +11,11 @@ import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-import static java.lang.Thread.sleep;
 
 public class App {
 
 
-    private Scanner scanner = new Scanner(System.in);
+    private final Scanner scanner = new Scanner(System.in);
 
 
     private int setNumberOfPlayers() {
@@ -26,11 +25,11 @@ public class App {
         try {
 
             // App's Scanner objects gets next user input
-            int numberOfplayers = scanner.nextInt();
+            int numberOfPlayers = scanner.nextInt();
 
             // If the integer input is less than 1, input will be requested again
             // Otherwise input is returned
-            if (numberOfplayers < 1) {
+            if (numberOfPlayers < 1) {
 
                 System.out.print("Please enter a positive integer.\n\n");
 
@@ -38,7 +37,7 @@ public class App {
 
             } else {
 
-                return numberOfplayers;
+                return numberOfPlayers;
             }
 
             //Non integer inputs are caught with catch block and input is requested again
@@ -56,9 +55,7 @@ public class App {
 
             System.out.print("\nPlease enter location of bag number " + bagNumber + " to load:\n");
 
-            String fileLocation = scanner.nextLine();
-
-            return fileLocation;
+            return scanner.nextLine();
 
         } catch (NoSuchElementException e) {
 
@@ -138,7 +135,7 @@ public class App {
     Welcome to the PebbleGame!!
     
     You will be basked to enter the number of players.
-    Then you will be asked for the location of three files in turn containg comma seperated
+    Then you will be asked for the location of three files in turn containing comma separated
     integer values for the pebble weights.
     The number of pebbles per bag must be at least 11 times the number of players.
     All integer values must be strictly positive integers.
@@ -176,14 +173,12 @@ public class App {
         whiteBagC.setSiblingBag(blackBagZ);
 
 
-        Bag[] whiteBags = {whiteBagA, whiteBagB, whiteBagC};
-
         Bag[] blackBags = {blackBagX, blackBagY, blackBagZ};
 
 
         game.setBlackBags(blackBags);
 
-        game.setWhiteBags(whiteBags);
+        game.setWhiteBags();
 
 
 

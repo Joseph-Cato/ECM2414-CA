@@ -8,30 +8,23 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class PebbleGame {
 
-    private Bag[] whiteBags;
     private Bag[] blackBags;
-    private static int numberOfPlayers = 0;
-    private ArrayList<Player> players = new ArrayList<Player>();
+    private final ArrayList<Player> players = new ArrayList<>();
     private static volatile Boolean finishedPlayerBoolean = false;
     private static volatile Player finishedPlayer = null;
 
 
     public PebbleGame() {
 
-        this.whiteBags = new Bag[]{new Bag('A'), new Bag('B'), new Bag('C')};
         this.blackBags = new Bag[]{new Bag('X'), new Bag('Y'), new Bag('Z')};
     }
 
-    public int getNumberOfPlayers() {
-        return numberOfPlayers;
-    }
-
     public void setFinishedPlayer(Player finishedPlayer) {
-        this.finishedPlayer = finishedPlayer;
+        PebbleGame.finishedPlayer = finishedPlayer;
     }
 
     public void setFinishedPlayerBoolean(Boolean finishedPlayerBoolean) {
-        this.finishedPlayerBoolean = finishedPlayerBoolean;
+        PebbleGame.finishedPlayerBoolean = finishedPlayerBoolean;
     }
 
     public Boolean getFinishedPlayerBoolean() {
@@ -42,8 +35,7 @@ public class PebbleGame {
         return blackBags;
     }
 
-    public void setWhiteBags(Bag[] whiteBags) {
-        this.whiteBags = whiteBags;
+    public void setWhiteBags() {
     }
 
     public void setBlackBags(Bag[] blackBags) {
@@ -77,10 +69,10 @@ public class PebbleGame {
 
     class Player extends Thread{
 
-        private int playerNum;
+        private final int playerNum;
         private Bag lastBagDrawnFrom = null;
-        private ArrayList<Integer> playerHand = new ArrayList<Integer>(10);
-        private PebbleGame pebbleGame;
+        private final ArrayList<Integer> playerHand = new ArrayList<>(10);
+        private final PebbleGame pebbleGame;
         private static int numberOfPlayers = 0;
         FileWriter fileWriter;
 

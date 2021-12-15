@@ -6,7 +6,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Bag {
 
     private ArrayList<Integer> pebbles;
-    private char bagIdentifier;
+    private final char bagIdentifier;
     private Bag siblingBag;
 
 
@@ -40,7 +40,7 @@ public class Bag {
 
         this.setPebbles(siblingBag.getPebbles() );
 
-        siblingBag.setPebbles( new ArrayList<Integer>() );
+        siblingBag.setPebbles(new ArrayList<>() );
 
     }
 
